@@ -1,0 +1,31 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Stalinist+One&display=swap');
+
+body{
+
+  background-color: bisque;
+  
+}
+a{
+  font-family: 'Stalinist One', cursive;
+}
+h3{
+  font-family: 'Stalinist One', cursive;
+
+}
+h1{
+  font-family: 'Stalinist One', cursive;
+
+}
+.navbar-brand{
+  font-family: 'Stalinist One', cursive;
+
+}
+#outputDiv{
+  display:none;
+}
+.responsive {
+  width: 100%;
+  height: auto;
+}
