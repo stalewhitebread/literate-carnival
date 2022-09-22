@@ -4,28 +4,21 @@
 
 body{
 
-  background-color: bisque;
+  background-image: url('https://images4.alphacoders.com/771/771198.jpg');
   
-}
-a{
-  font-family: 'Stalinist One', cursive;
-}
-h3{
-  font-family: 'Stalinist One', cursive;
-
 }
 h1{
   font-family: 'Stalinist One', cursive;
-
+  color:white;
+}
+h3{
+  font-family: 'Stalinist One', cursive;
+  color:white;
 }
 .navbar-brand{
   font-family: 'Stalinist One', cursive;
-
+  color:white;
 }
 #outputDiv{
   display:none;
-}
-.responsive {
-  width: 100%;
-  height: auto;
 }
